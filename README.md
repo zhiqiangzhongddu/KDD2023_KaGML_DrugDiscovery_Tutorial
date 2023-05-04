@@ -35,7 +35,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="surveypapers" />
 
-## Survey papers
+### Survey papers
 
 1. **Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability.** arxiv 2023. [paper](http://arxiv.org/abs/2302.08261) 
 
@@ -43,7 +43,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="surveypapers" />
 
-## Papers
+### Papers
 
 1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/abs/1704.01212)
 
@@ -207,11 +207,11 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="preprocessing" />
 
-## Incorporating Knowledge in *Preprocessing*
+### Incorporating Knowledge in *Preprocessing*
 
 <a name="preprocessing-feature-augmentation" />
 
-### Feature augmentation
+#### Feature augmentation
 
 1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/abs/1704.01212)
 
@@ -283,7 +283,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="preprocessing-graph-structure-augmentation" />
 
-### Graph structure augmentation
+#### Graph structure augmentation
 
 1. **KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction.** IJCAI 2020. [paper](https://www.ijcai.org/proceedings/2020/380)
 
@@ -335,11 +335,11 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="pretraining" />
 
-## Incorporating Knowledge in *Pretraining*
+### Incorporating Knowledge in *Pretraining*
 
 <a name="pretraining-knowledge-transfer" />
 
-### Knowledge transfer pretraining
+#### Knowledge transfer pretraining
 
 1. **Knowledge-Embedded Message-Passing Neural Networks: Improving Molecular Property Prediction with Human Knowledge.** ACS Omega 2021. [paper](https://pubs.acs.org/doi/10.1021/acsomega.1c03839)
 
@@ -367,7 +367,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="pretraining-generative-sample" />
 
-### Generative sample pretraining
+#### Generative sample pretraining
 
 1. **Graph Neural Networks Pretraining Through Inherent Supervision for Molecular Property Prediction.** CIKM 2022. [paper](https://dl.acm.org/doi/10.1145/3511808.3557085)
 
@@ -379,7 +379,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="pretraining-contrastive-sample" />
 
-### Contrastive-sample pretraining
+#### Contrastive-sample pretraining
 
 1. **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph.** KDD 2021. [paper](https://arxiv.org/abs/2106.04509)
 
@@ -391,11 +391,11 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="training" />
 
-## Incorporating Knowledge in *Training*
+### Incorporating Knowledge in *Training*
 
 <a name="training-auxiliary-task-enhanced" />
 
-### Auxiliary task-enhanced training
+#### Auxiliary task-enhanced training
 
 1. **Highly accurate protein structure prediction with AlphaFold.** Nature 2021. [paper](https://www.nature.com/articles/s41586-021-03819-2)
 
@@ -411,7 +411,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="training-auxiliary-knowledge-enhanced" />
 
-### Auxiliary knowledge-enhanced training
+#### Auxiliary knowledge-enhanced training
 
 1. **Knowledge-Embedded Message-Passing Neural Networks: Improving Molecular Property Prediction with Human Knowledge.** ACS Omega 2021. [paper](https://pubs.acs.org/doi/10.1021/acsomega.1c03839)
 
@@ -419,11 +419,11 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="interpretability" />
 
-## Incorporating Knowledge in *Interpretability*
+### Incorporating Knowledge in *Interpretability*
 
 <a name="interpretability-attenntion-summarisation" />
 
-### Attention summarisation
+#### Attention summarisation
 
 1. **SumGNN: Multi-typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization.** Bioinform. 2021. [paper](https://arxiv.org/abs/2010.01450)
 
@@ -431,7 +431,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="interpretability-pathway-extraction" />
 
-### Pathway extraction
+#### Pathway extraction
 
 1. **DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer.** Int. J. Mol. Sci. 2022. [paper](https://www.mdpi.com/1422-0067/23/22/13919)
 
@@ -443,13 +443,13 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="resources" />
 
-## Practical Resources
+### Practical Resources
 
 <a name="knowledge-database" />
 
-### Knowledge Database
+#### Knowledge Database
 
-#### Molecular and Structural 
+##### Molecular and Structural 
 
 1. **logP.** *Type:* Type. [Paper](https://pubs.acs.org/doi/10.1021/ci990307l)
 
@@ -487,7 +487,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
     *A periodic table of chemical elements classified by atomic number, electron configurations, and chemical properties into groups and periods, providing a systematic overview of elements.*
 
-#### Compounds 
+##### Compounds 
 
 1. **CheMBL.** *Type:* Database. [Paper](https://pubmed.ncbi.nlm.nih.gov/30398643/)
 
@@ -509,7 +509,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
     *A database includes small molecular compounds, biologics, and natural products, providing information on their properties, mechanisms, and interactions used in drug discovery.*
 
-#### Drugs and Targets 
+##### Drugs and Targets 
 
 1. **DDinter.** *Type:* Database. [Paper](https://pubmed.ncbi.nlm.nih.gov/34634800/)
 
@@ -543,7 +543,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
     *A database of marketed drugs and their side effects, providing information on the frequency, type, and severity of adverse events, used to advance drug safety and pharmacovigilance.*
 
-#### Genes and Proteins
+##### Genes and Proteins
 
 1. **GeneOntology.** *Type:* Ontology. [Paper](https://pubmed.ncbi.nlm.nih.gov/33290552/)
 
@@ -590,7 +590,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
     *A repository that integrates information on non-coding RNA sequences for a variety of organisms and attributes them to a unique identifier.*
 
 
-#### Pathways
+##### Pathways
 
 1. **Reactome.** *Type:* Database. [Paper](https://pubmed.ncbi.nlm.nih.gov/34788843/)
 
@@ -604,7 +604,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
     *A database of biological pathways that integrates information from several databases, which aims to provide an overview of molecular interactions and reactions.*
 
-#### Disease
+##### Disease
 
 1. **Disease Ontology.** *Type:* Ontology. [Paper](https://pubmed.ncbi.nlm.nih.gov/34755882/)
 
@@ -654,7 +654,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
     *The Human Phenotype Ontology (HPO) is an ontology of human phenotypes and database of disease-phenotype associations with cross-references to other relevant databases.*
 
-#### Medical Terms and Anatomy
+##### Medical Terms and Anatomy
 
 1. **Uberon.** *Type:* Ontology. [Paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-5-21)
 
@@ -678,7 +678,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 <a name="knowledge-graph" />
 
-### Knowledge Graph
+#### Knowledge Graph
 
 1. **Hetionet.** *Intended Usage:* Drug discovery, Drug repurposing, etc. [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4497619/)
 
