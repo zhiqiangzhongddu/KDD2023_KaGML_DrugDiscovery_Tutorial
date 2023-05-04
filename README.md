@@ -1,16 +1,16 @@
 # KDD 2023 KaGML for Drug Discovery Tutorial
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=yellow)  ![Forks](https://img.shields.io/github/forks/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=blue&label=Fork)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=yellow)  ![Forks](https://img.shields.io/github/forks/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=blue&label=Fork)
 
 Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for Drug Discovery: from Precision to Interpretability
 
 ## Time and Location
 
-1. Time: TBD. 
+**1. Time: TBD.**
 
-2. Location: TBD.
+**2. Location: TBD.**
 
-3. Zoom: Click "join zoom room" at Underline.
+**3. Zoom: Click "join zoom room" at Underline.**
 
 ## Tutorial abstract
 Graph Machine Learning (GML) has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. 
