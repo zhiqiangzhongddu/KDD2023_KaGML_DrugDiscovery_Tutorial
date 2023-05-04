@@ -6,7 +6,7 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 
 ## Time and Location
 
-1. Time: TBD.
+1. Time: TBD. 
 
 2. Location: TBD.
 
