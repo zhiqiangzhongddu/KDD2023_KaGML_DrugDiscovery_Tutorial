@@ -21,6 +21,21 @@ We have recently completed a survey of KaGML works that organises the outstandin
 This tutorial will present the result of this scholarly work.
 To encourage audience participation and facilitate research in this promptly emerging field, we also share valuable practical resources for intelligent drug discovery and provide an in-depth discussion of the potential avenues for future advancements.
 
+## Outline and Material
+
+- Introduction and Motivation
+- Background of Drug Discovery
+- Graph Machine Learning (GML) and Knowledge Graph (KG) in Drug Discovery
+- Knowledge-augmented Graph Machine Learning (KaGML) for Drug Discovery
+  - Taxonomy of KaGML
+  - Incorporating knowledge in *preprocessing*
+  - Incorporating knowledge in *pretraining*
+  - Incorporating knowledge in *training*
+  - Incorporating knowledge in *interpretability*
+- Practical Resources
+- Open Challenges and Future Directions
+- Q&A Session
+
 ## Additional Relevant Materials
 
 - [Survey papers](#surveypapers)
