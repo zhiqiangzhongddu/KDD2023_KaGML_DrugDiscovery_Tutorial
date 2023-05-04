@@ -13,10 +13,10 @@ Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for D
 **3. Zoom: Click "join zoom room" at Underline.**
 
 ## Tutorial abstract
-Graph Machine Learning (GML) has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. 
+*Graph Machine Learning* (GML) has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. 
 Despite extensive efforts, GML methods still suffer from several deficiencies, such as the limited ability to handle supervision sparsity and provide interpretability in learning and inference processes and their ineffectiveness in utilising relevant domain knowledge. 
 In response, recent studies have proposed integrating external biomedical knowledge into the GML pipeline to realise more precise and interpretable drug discovery with limited training instances. 
-This tutorial presents a comprehensive overview of long-standing drug discovery principles, provides the foundational concepts and cutting-edge techniques for graph-structured data and knowledge databases, and formally summarises Knowledge-augmented Graph Machine Learning (KaGML) for drug discovery.
+This tutorial presents a comprehensive overview of long-standing drug discovery principles, provides the foundational concepts and cutting-edge techniques for graph-structured data and knowledge databases, and formally summarises *Knowledge-augmented Graph Machine Learning* (KaGML) for drug discovery.
 We have recently completed a survey of KaGML works that organises the outstanding approaches into four categories following a novel-defined taxonomy. 
 This tutorial will present the result of this scholarly work.
 To encourage audience participation and facilitate research in this promptly emerging field, we also share valuable practical resources for intelligent drug discovery and provide an in-depth discussion of the potential avenues for future advancements.
