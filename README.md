@@ -36,6 +36,12 @@ To encourage audience participation and facilitate research in this promptly eme
 - Open Challenges and Future Directions [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
 - Q&A Session
 
+## Presenters
+
+[Zhiqiang Zhong](https://zhiqiangzhongddu.github.io/)
+
+[Davide Mottin](https://mott.in/)
+
 ## Additional Relevant Materials
 
 - [Survey papers](#surveypapers)
