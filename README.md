@@ -4,7 +4,11 @@
 
 Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for Drug Discovery: From Precision to Interpretability
 
-[//]: # (## Time and Location)
+## Time and Location
+
+With deeply regret to inform audiences that due to the VISA delay, we couldn't deliver this tutorial in person in KDD'23. 
+Please find our prepared tutorial slides and practical resources for audiences. 
+Welcome to contact us if you have any questions or want to chat with us!
 
 [//]: # ()
 [//]: # (**1. Time: TBD.**)
@@ -41,9 +45,15 @@ To encourage audience participation and facilitate research in this promptly eme
 
 ## Presenters
 
-[Zhiqiang Zhong](https://zhiqiangzhongddu.github.io/)
+[Zhiqiang Zhong](https://zhiqiangzhongddu.github.io/) is a postdoctoral researcher at Aarhus University. 
+His research interests include graph machine learning, drug discovery and development, and social network analysis. 
+He presented some research works at international conferences and demonstrated graph machine learning topics for Bachelor and Master courses. 
+He received his PhD in 2022 from the University of Luxembourg.
 
-[Davide Mottin](https://mott.in/)
+[Davide Mottin](https://mott.in/) is Assistant Professor at Aarhus University. 
+His research interests include graph mining, novel query paradigms, and interactive methods. 
+He presented graph exploration tutorial in SIGIR 2019 (Tutorial), SIGMOD 2019 (Tutorial), KDD 2018 (Tutorial), VLDB 2017 (Tutorial), SIGMOD 2017 (Tutorial), CIKM 2016 (Tutorial), KDD 2015 and VLDB 2014 and is actively engaged in teaching database, big data analytics, and graph mining for Bachelor and Master courses. 
+He received his PhD in 2015 from the University of Trento.
 
 ## Additional Relevant Materials
 
