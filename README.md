@@ -28,7 +28,7 @@ We have recently completed a survey of KaGML works that organises the outstandin
 This tutorial will present the result of this scholarly work.
 To encourage audience participation and facilitate research in this promptly emerging field, we also share valuable practical resources for intelligent drug discovery and provide an in-depth discussion of the potential avenues for future advancements.
 
-## Outline and Material
+## Outline and Material [[PDF]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial.pdf)
 
 - Introduction and Motivation [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part1.pdf)
 - Background of Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part2.pdf)
