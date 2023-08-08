@@ -2,15 +2,18 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=yellow)  ![Forks](https://img.shields.io/github/forks/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial?color=blue&label=Fork)
 
-Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for Drug Discovery: from Precision to Interpretability
+Materials for KDD2023 tutorial: Knowledge-augmented Graph Machine Learning for Drug Discovery: From Precision to Interpretability
 
-## Time and Location
+[//]: # (## Time and Location)
 
-**1. Time: TBD.**
+[//]: # ()
+[//]: # (**1. Time: TBD.**)
 
-**2. Location: TBD.**
+[//]: # ()
+[//]: # (**2. Location: TBD.**)
 
-**3. Zoom: Click "join zoom room" at Underline.**
+[//]: # ()
+[//]: # (**3. Zoom: Click "join zoom room" at Underline.**)
 
 ## Tutorial abstract
 *Graph Machine Learning* (GML) has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. 
@@ -23,17 +26,17 @@ To encourage audience participation and facilitate research in this promptly eme
 
 ## Outline and Material
 
-- Introduction and Motivation [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
-- Background of Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
-- Graph Machine Learning (GML) and Knowledge Graph (KG) in Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
-- Knowledge-augmented Graph Machine Learning (KaGML) for Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
+- Introduction and Motivation [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part1.pdf)
+- Background of Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part2.pdf)
+- Graph Machine Learning (GML) and Knowledge Graph (KG) in Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part3.pdf)
+- Knowledge-augmented Graph Machine Learning (KaGML) for Drug Discovery [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part4.pdf)
   - Taxonomy of KaGML
   - Incorporating knowledge in *preprocessing*
   - Incorporating knowledge in *pretraining*
   - Incorporating knowledge in *training*
   - Incorporating knowledge in *interpretability*
-- Practical Resources [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
-- Open Challenges and Future Directions [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)
+- Practical Resources [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20part5.pdf)
+- Open Challenges and Future Directions [[Slides]](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial/blob/main/Files/KDD23-tutorial%20Part6.pdf)
 - Q&A Session
 
 ## Presenters
